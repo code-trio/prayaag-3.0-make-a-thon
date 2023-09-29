@@ -1,0 +1,40 @@
+*{
+    margin : 0;
+    padding : 0;
+}
+
+.main{
+    background-image: url(./images/night-5222267_1280.png);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+
+.logo{
+    color: #f7f0eb;
+    font-size: 45px;
+    font-family: Arial;
+    padding-left:15px;
+    float: left;
+    padding-top: 5px;
+    margin-top: 5px
+}
+.menu{
+    color: #f7f0eb;
+    font-size: 15px;
+    font-family: Arial;
+    width: 400px;
+    float: left;
+    height: 70px;
+}
